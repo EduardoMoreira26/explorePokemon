@@ -1,16 +1,18 @@
-## 🚀GitHub Explorer
+## 🚀Pokémon Explorer
 
-Projeto criado com o objetivo de praticar os fundamentos do ReactJs. Com requisições da API do GitHub onde é possível pesquisasr e listar repositórios dos usuários, mostrando suas issues.
+Aplicação utilizando a API do Pokémon https://pokeapi.co/ onde é possível pesquisasr e listar pokémons pelo seu nome ou número de ID, ao clicar no card do Pokémon selecionado é possível visualizar mais dados do mesmo, como seu tipo, sua habilidade, peso e altura.
+Os pokémons pesquisados serão salvos no localStorage, para que os pokémons pesquisados continue sendo listados mesmo que feche a aplicação.
+
+### Clique no link https://explorepokemons.netlify.app/ e visualize a aplicação.
 
 <div align="center">
   
-![Gif](https://github.com/EduardoMoreira26/Github-Explorer/blob/master/Screen%20Recording%20(19-09-2020%2014-48-33).gif)
+![Gif](https://github.com/EduardoMoreira26/explorePokemon/blob/master/Screen%20Recording%20(22-12-2020%2021-08-39)%20(1).gif)
 
 </div>
 
 ## ⛏️ Ferramentas utilizadas:
 
-- [Typescript](https://www.typescriptlang.org/)
 - [StyledComponents](https://styled-components.com/)
 - [EsLint](https://eslint.org/)
 - [ReactJS](https://reactjs.org/)
